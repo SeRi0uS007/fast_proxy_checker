@@ -1,0 +1,7 @@
+.idea
+__pycache__
+venv
+venv-lin
+checked_proxies.txt
+unchecked_proxies.txt
+fast_proxy_checker.spec
